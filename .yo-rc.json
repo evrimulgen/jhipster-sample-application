@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "cassandra",
+    "devDatabaseType": "cassandra",
+    "prodDatabaseType": "cassandra",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "tr",
+    "languages": [
+      "tr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MWRjZGIxNWRkNTY3MTg2NTNlMmM2Y2E0ZWIzN2NkZWViMjNkYzQyNzIwMzFjMmY0MWIyMmJiMGViYzMzYjlmNjA0YWMzOWQ4ODRlMGRiNTllN2YwMTYwYmRmYjVjMDAyMDAwZjAyMTk4N2JkZjg4NDZlZmFkMzFmNjYxOWNhZjU=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "evrimulgen",
+  "repository-name": "jhipster-sample-application"
+}
